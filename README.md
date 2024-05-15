@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Aidan! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>
 
-<!--
-**aidanfratcher/aidanfratcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨🏻‍💻 Cybersecurity Projects:</h2>
+  - [File Integrity Monitor]
 
-Here are some ideas to get you started:
+<h2>🧾 Certifications:</h2>
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/da83ca32-a424-4fdc-8c20-781bb80d72dd/linked_in_profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Connect with me: 
+
+[<img align="left" alt="AidanFratcher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/aidanfratcher
+
+
+
