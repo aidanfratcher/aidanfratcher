@@ -1,6 +1,5 @@
 <h1>Hi, I'm Aidan! <br/><a href="https://www.linkedin.com/in/aidanfratcher/">Cybersecurity Student</a>
 
-<h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
 
 <h2>🧾 Certifications:</h2>
